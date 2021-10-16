@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CountingFingersVolumeControlHandTracking/.idea/HandShake.iml" filepath="$PROJECT_DIR$/../CountingFingersVolumeControlHandTracking/.idea/HandShake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HandShake.iml" filepath="$PROJECT_DIR$/.idea/HandShake.iml" />
     </modules>
   </component>
 </project>
